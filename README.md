@@ -1,16 +1,22 @@
-## Hi there 👋
+<!-- Banner Image -->
+<img src="./saimakhanBanner.png" alt="Profile Banner" width="100%">
 
-<!--
-**saimakhan1/saimakhan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Saima Khan
 
-Here are some ideas to get you started:
+Computer Science Faculty | Web Designer & MERN Stack Developer  
+Building modern web applications with React, MongoDB, Tailwind CSS & DaisyUI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Teaching Computer Science & mentoring students
+- Developing full-stack MERN applications
+- Passionate about clean UI & modern web technologies
+
+## 🛠 Tech Stack
+- Frontend: React, Tailwind CSS, DaisyUI
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: Git, GitHub, VS Code
+
+## 📫 Connect
+- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
+- Email: your@email.com
