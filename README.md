@@ -4,7 +4,7 @@
 # Hi there 👋, I'm Saima Khan
 
 Computer Science Faculty | Web Designer & MERN Stack Developer  
-Building modern web applications with React, MongoDB, Tailwind CSS & DaisyUI
+Building modern web applications with HTML, CSS, JavaScript, React, MongoDB, Tailwind CSS & DaisyUI
 
 ## 🚀 About Me
 - Teaching Computer Science & mentoring students
@@ -12,11 +12,11 @@ Building modern web applications with React, MongoDB, Tailwind CSS & DaisyUI
 - Passionate about clean UI & modern web technologies
 
 ## 🛠 Tech Stack
-- Frontend: React, Tailwind CSS, DaisyUI
+- Frontend: HTML, CSS, JavaScript, React, Tailwind CSS, DaisyUI
 - Backend: Node.js, Express.js
 - Database: MongoDB
 - Tools: Git, GitHub, VS Code
 
 ## 📫 Connect
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
-- Email: your@email.com
+- LinkedIn: https://www.linkedin.com/in/saima-khan-77837a128/
+- Email: saimakhancsedu@gmail.com
