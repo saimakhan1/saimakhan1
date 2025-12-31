@@ -20,3 +20,6 @@ Building modern web applications with HTML, CSS, JavaScript, React, MongoDB, Tai
 ## 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/saima-khan-77837a128/
 - Email: saimakhancsedu@gmail.com
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=saimakhan1)](https://git.io/streak-stats)
+
